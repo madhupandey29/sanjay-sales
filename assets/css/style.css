@@ -120,7 +120,7 @@ ul, ol {
 
 /* ========== LAYOUT ========== */
 .container {
-  width: min(1200px, 94%);
+  width: min(100%, 94%);
   margin: 0 auto;
   padding: 0 1rem;
 }
